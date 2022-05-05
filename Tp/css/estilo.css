@@ -1,0 +1,70 @@
+body {
+    background-color: #ebebeb;
+}
+.lista {
+    display: flex;
+    flex-wrap: no-wrap;
+    justify-content: center;
+    background: #ffffff;
+    border-bottom: 5px solid #d3d7da;
+    padding-left: 0;
+    margin-top: 0px;   
+}
+.item {
+    list-style: none;
+    text-transform: uppercase;
+    padding: 10px;
+}
+li:hover {
+    background: rgb(100, 100, 100);
+}
+h1 {
+    text-align: center;    
+    color:#121212;
+    font-size: 40px;
+    font-weight: bold;
+    font-style: italic;
+    display: flex;
+    background-color: #ffffff;
+    margin-bottom: 0px;
+}
+h2 {
+    margin-top: 0%;
+    margin-bottom: 0%;
+    text-align: left;
+    color: #121212;
+    font-size: 30px;
+    font-weight: bold;
+}
+h3 {
+    text-align: left;
+    color: #121212;
+    font-size: 25px;
+    font-weight: bold;
+    font-style: italic;
+}
+a {
+    text-decoration: none;
+    color: rgb(34, 34, 34);
+    font-size: 25px;
+    font-weight: bold;
+    font-style: italic;
+    letter-spacing: 3px ;
+}
+.fondo {
+background-color: #ebedee;
+}
+.pipa {
+    width: 60px;
+    height: 60px;
+    margin: 0px;
+}
+.logo {
+    display: flex;
+    background-color: #ffffff;
+}
+.marca {
+    margin: 6px 0px 0px 0px;
+    text-align: center;
+    background-color: #ffffff;
+}
